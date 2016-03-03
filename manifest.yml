@@ -1,0 +1,7 @@
+---
+applications:
+- name: myapi
+  memory: 128M
+  instances: 1
+  host: my-api
+  path: .
