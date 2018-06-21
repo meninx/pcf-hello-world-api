@@ -1,7 +1,7 @@
-Installation:
+### Installation:
 
 npm install
 
-Launch:
+### Launch:
 
 node server.js --use-strict
