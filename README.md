@@ -4,4 +4,4 @@ npm install
 
 ### Launch:
 
-node server.js --use-strict
+nodejs server.js --use-strict
